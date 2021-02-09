@@ -1,2 +1,3 @@
-# hello-world
-My first repository on GitHub
+hello,大家好
+我是2020级计算机系的一枚新生
+Python、编程对于我来说超级超级难，但是我会努力学习的！！！
